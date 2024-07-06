@@ -1,0 +1,20 @@
+C:\Users\PERSONAL\source\repos\Calculator Tec Lite\Calculator Tec Lite\bin\Debug\Calculator Tec Lite.exe.config
+C:\Users\PERSONAL\source\repos\Calculator Tec Lite\Calculator Tec Lite\bin\Debug\Calculator Tec Lite.exe
+C:\Users\PERSONAL\source\repos\Calculator Tec Lite\Calculator Tec Lite\bin\Debug\Calculator Tec Lite.pdb
+C:\Users\PERSONAL\source\repos\Calculator Tec Lite\Calculator Tec Lite\obj\Debug\Calculator Tec Lite.csproj.AssemblyReference.cache
+C:\Users\PERSONAL\source\repos\Calculator Tec Lite\Calculator Tec Lite\obj\Debug\Calculator_Tec_Lite.Form1.resources
+C:\Users\PERSONAL\source\repos\Calculator Tec Lite\Calculator Tec Lite\obj\Debug\Calculator_Tec_Lite.Properties.Resources.resources
+C:\Users\PERSONAL\source\repos\Calculator Tec Lite\Calculator Tec Lite\obj\Debug\Calculator Tec Lite.csproj.GenerateResource.cache
+C:\Users\PERSONAL\source\repos\Calculator Tec Lite\Calculator Tec Lite\obj\Debug\Calculator Tec Lite.csproj.CoreCompileInputs.cache
+C:\Users\PERSONAL\source\repos\Calculator Tec Lite\Calculator Tec Lite\obj\Debug\Calculator Tec Lite.exe
+C:\Users\PERSONAL\source\repos\Calculator Tec Lite\Calculator Tec Lite\obj\Debug\Calculator Tec Lite.pdb
+C:\Users\jhord\OneDrive\Pictures\Proyect de C Sharp\Calculator Tec Lite\Calculator Tec Lite\bin\Debug\Calculator Tec Lite.exe.config
+C:\Users\jhord\OneDrive\Pictures\Proyect de C Sharp\Calculator Tec Lite\Calculator Tec Lite\bin\Debug\Calculator Tec Lite.exe
+C:\Users\jhord\OneDrive\Pictures\Proyect de C Sharp\Calculator Tec Lite\Calculator Tec Lite\bin\Debug\Calculator Tec Lite.pdb
+C:\Users\jhord\OneDrive\Pictures\Proyect de C Sharp\Calculator Tec Lite\Calculator Tec Lite\obj\Debug\Calculator Tec Lite.csproj.AssemblyReference.cache
+C:\Users\jhord\OneDrive\Pictures\Proyect de C Sharp\Calculator Tec Lite\Calculator Tec Lite\obj\Debug\Calculator_Tec_Lite.Form1.resources
+C:\Users\jhord\OneDrive\Pictures\Proyect de C Sharp\Calculator Tec Lite\Calculator Tec Lite\obj\Debug\Calculator_Tec_Lite.Properties.Resources.resources
+C:\Users\jhord\OneDrive\Pictures\Proyect de C Sharp\Calculator Tec Lite\Calculator Tec Lite\obj\Debug\Calculator Tec Lite.csproj.GenerateResource.cache
+C:\Users\jhord\OneDrive\Pictures\Proyect de C Sharp\Calculator Tec Lite\Calculator Tec Lite\obj\Debug\Calculator Tec Lite.csproj.CoreCompileInputs.cache
+C:\Users\jhord\OneDrive\Pictures\Proyect de C Sharp\Calculator Tec Lite\Calculator Tec Lite\obj\Debug\Calculator Tec Lite.exe
+C:\Users\jhord\OneDrive\Pictures\Proyect de C Sharp\Calculator Tec Lite\Calculator Tec Lite\obj\Debug\Calculator Tec Lite.pdb
